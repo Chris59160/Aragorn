@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/hud_horizontal.unity
+- path: Assets/hud_multiple.unity
   isLoaded: 1
   isActive: 1
